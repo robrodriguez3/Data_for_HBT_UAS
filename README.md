@@ -1,4 +1,4 @@
-# Data for HBT UAS\
+# Data for HBT UAS
 This repository contains the supporting data for a study on the perofrmance of the Herbicide Ballistic Technology equipped Unmanned Aircraft System.\
 \
 Files include:\
